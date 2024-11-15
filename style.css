@@ -369,3 +369,10 @@ footer h4 {
 .fa-heart {
   color: #f44336;
 }
+
+/* footer */
+
+footer {
+  background-color: (4, 9, 30, 0.7);
+  color: white;
+}
