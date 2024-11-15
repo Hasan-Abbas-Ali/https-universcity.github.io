@@ -166,6 +166,10 @@ h1 {
   font-weight: 600;
 }
 
+.line-height {
+  line-height: 30px;
+}
+
 p {
   color: #777;
   font-size: 14px;
