@@ -348,7 +348,7 @@ h3 {
 /* footer */
 
 footer {
-  background-color: black;
+  background-color: rgba(4, 9, 30, 0.7);
   width: 100%;
   text-align: center;
   padding: 30px 0;
